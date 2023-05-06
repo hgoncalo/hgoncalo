@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Helder Oliveira</h1>
 <h3 align="center">Developer from Portugal</h3>
 
-- 🔭 I have worked with **Lua (in FiveM projects)**
+- 🔭 I have worked with **Lua (in FiveM projects) , C (in class) and Java**
 
 - 🌱 I’m currently learning **Web Development**
 
