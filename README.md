@@ -3,13 +3,11 @@
 
 - 🔭 I have worked with **Lua (in FiveM projects) , C (in class) and Java**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I am currently learning **Full-Stack Development**
 
-- 👯 I’m collaborating on **Southside Roleplay**
+- 👯 I am currently leading projects such as **Cão Mau** and **Southside Roleplay**
 
-- 🤝 I’m looking for help with **General Software Development**
-
-- 📫 How to reach me **heldergfao@gmail.com**
+- 📫 How to reach me **heldergfao@gmail.com** or **geral@southside.pt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
