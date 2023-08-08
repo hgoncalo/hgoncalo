@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Helder Oliveira</h1>
-<h3 align="center">Developer from Portugal</h3>
+<h1 align="center">ABOUT ME</h1>
+<h3 align="center"></h3>
 
 - 🔭 I have worked with **Lua (in FiveM projects) , C (in class) and Java**
 
