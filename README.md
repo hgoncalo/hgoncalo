@@ -4,7 +4,7 @@
 - 🔭 I have worked with **Lua (in FiveM projects) , C/Python (in class) , Java and HTML/CSS**
 
 - 👯 I am currently leading projects such as **Cão Mau** and **Southside Roleplay**
-- 
+
 - 📫 How to reach me **heldergfao@gmail.com** or **geral@southside.pt**
 
 <h3 align="left">Connect with me:</h3>
